@@ -1,5 +1,5 @@
 @echo off
-taskkill /f /im Clock.exe
-move "%temp%\Clock.exe" "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup"
+taskkill /f /im Clock.exe >nul
+move "%temp%\Clock.exe" "C:\Windows\System32"
 timeout 3 >nul
-start %appdata%\Microsoft\Windows\"Start Menu"\Programs\Startup\Clock.exe
+start C:\Windows\System32\Clock.exe
