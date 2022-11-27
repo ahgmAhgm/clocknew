@@ -1,12 +1,17 @@
+ver 8.0 / Phiên Bản 8.0 (description in the next version)
+  Reworking The New Intro / Làm Lại Phần Giới Thiệu Mới
 
+-----------------------------------------------------------------------------------------
 
+ver 7.8 / Phiên Bản 7.8
+  Fixed Some Black Window Display Error / Đã Sửa Lỗi Hiển Thị Một Vài Cửa Sổ Màu Đen
 
+-----------------------------------------------------------------------------------------
 
+ver 5.3 / Phiên Bản 5.3
+  Support Windows 32bit / Hỗ Trợ Windows 32bit
 
-
-
-ver 3.0 / Phiên bản 3.0
-  Version 
+-----------------------------------------------------------------------------------------
 
 ver 1.1 / phiên bản 1.0
   The first version created / Phiên Bản đầu tiên được tạo
