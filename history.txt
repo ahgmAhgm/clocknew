@@ -9,11 +9,11 @@ ver 7.8 / Phiên Bản 7.8
 -----------------------------------------------------------------------------------------
 
 ver 5.3 / Phiên Bản 5.3
-  Support Windows 32bit / Hỗ Trợ Windows 32bit
-
+  Support Windows 32bit and 64bit / Hỗ Trợ Windows 32bit và 64bit
+  Support Windows 7 to up /Hỗ Trợ Windows 7 trở lên
 -----------------------------------------------------------------------------------------
 
 ver 1.1 / phiên bản 1.1
   The first version created / Phiên Bản đầu tiên được tạo
-  Chỉ hỗ trợ Windows 10, 11
-  Chỉ hỗ trợ Windows 64bit
+  Support Windows 10, 11 / Chỉ hỗ trợ Windows 10, 11
+  Support Windows 64bit / Chỉ hỗ trợ Windows 64bit
