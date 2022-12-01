@@ -13,5 +13,5 @@ ver 5.3 / Phiên Bản 5.3
 
 -----------------------------------------------------------------------------------------
 
-ver 1.1 / phiên bản 1.0
+ver 1.1 / phiên bản 1.1
   The first version created / Phiên Bản đầu tiên được tạo
