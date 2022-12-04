@@ -1,5 +1,11 @@
-ver 8.0 / Phiên Bản 8.0 (description in the next version)
+ver ?.? / Phiên Bản ?.?
+  ???
+
+ver 8.0 / Phiên Bản 8.0
   Reworking The New Intro / Làm Lại Phần Giới Thiệu Mới
+  Make the software lighter / Làm cho phần mềm nhẹ hơn
+  Redo audio, notifications / Chỉnh Sửa Phần Âm Thanh, Thông Báo
+  Improved performance / Cải Thiện Hiệu Suất
 
 -----------------------------------------------------------------------------------------
 
