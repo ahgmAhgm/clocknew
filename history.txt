@@ -2,6 +2,8 @@ ver 8.1 / Phiên Bản 8.1 (Testing and not available yet)
   Create Menu Instead of Buttons/ Tạo Menu thay vì các nút
   Change Background Color In Intro/ Đổi Màu Nền Ở Phần Giới Thiệu
 
+-----------------------------------------------------------------------------------------
+
 ver 8.0 / Phiên Bản 8.0
   Reworking The New Intro / Làm Lại Phần Giới Thiệu Mới
   Make the software lighter / Làm cho phần mềm nhẹ hơn
