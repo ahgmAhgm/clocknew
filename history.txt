@@ -1,4 +1,14 @@
-ver 8.1 / Phiên Bản 8.1 (Testing and not available yet)
+ver ?.? / Phiên Bản ?.?
+  N/A
+
+ver 9.0 / Phiên Bản 9.0
+  New: Completely Changed Clock Sound / Mới: Âm thanh đồng hồ được thay đổi hoàn toàn
+  New: Added Sound On/Off / Mới: Đã thêm Bật/Tắt âm thanh
+  Complete Change of Background Color In Intro / Thay đổi màu nền trong phần giới thiệu
+
+-----------------------------------------------------------------------------------------
+
+ver 8.01 / Phiên Bản 8.01
   Create Menu Instead of Buttons/ Tạo Menu thay vì các nút
   Change Background Color In Intro/ Đổi Màu Nền Ở Phần Giới Thiệu
 
