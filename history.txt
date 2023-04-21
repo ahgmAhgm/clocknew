@@ -1,5 +1,9 @@
-ver ?.? / Phiên Bản ?.?
-  N/A
+ver 10.0 / Phiên Bản 10.0
+  Decreasing the Intensity of Chirping Sound / Giảm Cường Độ Âm Thanh Kêu
+  Change The Intro Window / Thay Đổi Cửa Sổ Giới Thiệu
+  Change The Program Structure / Thay Đổi Cấu Trúc Chương Trình
+  
+-----------------------------------------------------------------------------------------
 
 ver 9.0 / Phiên Bản 9.0
   New: Completely Changed Clock Sound / Mới: Âm thanh đồng hồ được thay đổi hoàn toàn
