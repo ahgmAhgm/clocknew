@@ -1,4 +1,4 @@
-ver 10.0 / Phiên Bản 10.0
+ver 10.0 / Phiên Bản 10.0 (coding and testing, it's not alvailable)
   Decreasing the Intensity of Chirping Sound / Giảm Cường Độ Âm Thanh Kêu
   Change The Intro Window / Thay Đổi Cửa Sổ Giới Thiệu
   Change The Program Structure / Thay Đổi Cấu Trúc Chương Trình
